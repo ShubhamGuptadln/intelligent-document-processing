@@ -6,7 +6,7 @@ import google.generativeai as genai
 
 # ---------------- LLM CONFIG ----------------
 # Make sure you have your API key in environment variable
-genai.configure(api_key="AIzaSyA2pBQBIW-50TpsRlpsxHvurazmH6HNiS8")
+genai.configure(api_key="API")
 MODEL_NAME = "gemini-3-flash-preview"
 
 # ---------------- LLM HELPER ----------------
