@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+tika
+pytesseract
+Pillow
+PyPDF2
+python-multipart
+PyMuPDF
+sqlalchemy
+python-docx
